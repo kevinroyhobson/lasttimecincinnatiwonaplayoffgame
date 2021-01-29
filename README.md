@@ -1,2 +1,2 @@
 # lasttimecincinnatiwonaplayoffgame
-lasttimecincinnatiwonaplayoffgame.com
+http://www.lasttimecincinnatiwonaplayoffgame.com
