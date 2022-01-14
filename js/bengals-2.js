@@ -1,5 +1,5 @@
 $(function() {
-   var dateCincinnatiWon = moment('1991-01-06');
+   var dateCincinnatiWon = moment($('.last-win').text());
    var timeSinceCincinnatiWon = moment.duration(moment().diff(dateCincinnatiWon));
    var daysSinceCincinnatiWon = Math.floor(timeSinceCincinnatiWon.asDays());
    var displayStr = daysSinceCincinnatiWon.toLocaleString('en-US') + " days ago";
